@@ -1,0 +1,7 @@
+.linkName {
+  padding: 30px;
+}
+
+.linkName:hover {
+  cursor: pointer;
+}
